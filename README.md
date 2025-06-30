@@ -1,4 +1,4 @@
-# Pandas-Data-Science-Tasks
+# Python 
 Set of real world data science tasks completed using the Python Pandas library.
 
 ## Setup
